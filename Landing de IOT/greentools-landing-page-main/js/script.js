@@ -18,7 +18,7 @@ $(window).scroll(function () {
 
 $(window).resize(function () {
   loadScreen();
-});
+});  
 
 loadScreen();
 
